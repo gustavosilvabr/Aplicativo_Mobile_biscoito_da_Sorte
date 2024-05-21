@@ -20,6 +20,14 @@ O **Biscoito da Sorte App** é uma aplicação mobile desenvolvida com React Nat
 
 3. **Compartilhamento**: Os usuários podem compartilhar as frases inspiradoras geradas pelo aplicativo com amigos e familiares através das redes sociais ou outros meios de comunicação disponíveis no dispositivo.
 
+## Exemplos
+
+### Biscoito Fechado
+![Biscoito Fechado](https://github.com/gustavosilvabr/Aplicativo_Mobile_biscoito_da_Sorte/assets/79516858/0b661b40-6a64-4289-b6fb-f390e997930f)
+
+### Biscoito Aberto com Frase Aleatória
+![Biscoito Aberto com Frase Aleatória](https://github.com/gustavosilvabr/Aplicativo_Mobile_biscoito_da_Sorte/assets/79516858/e13bfc1c-c752-42f7-9b0f-74fe9a3610f5)
+
 ## Tecnologias Utilizadas
 
 - **React Native**: Utilizado para o desenvolvimento da aplicação móvel, permitindo a criação de interfaces nativas para Android e iOS a partir de um único código base.
